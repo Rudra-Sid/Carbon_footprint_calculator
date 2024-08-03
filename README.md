@@ -1,2 +1,3 @@
+# This project is made under IBM Frontend Web Developement Internship!! 
 # Carbon_footprint_calculator
-developed under UN's sustainable development goals (SDG)
+Developed by following UN's sustainable development goals (SDG)
